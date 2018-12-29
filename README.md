@@ -1,2 +1,2 @@
-# test-ghpages
+# test-pages
 Testing GItHub Pages
