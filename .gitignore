@@ -3,3 +3,6 @@
 
 # Mac OS
 .DS_Store
+
+# Generated web site
+_site
